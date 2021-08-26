@@ -3,7 +3,7 @@
 
 An inference engine (also known as a rules engine) allows one to define logical rules, add facts, and retrieve inferences that follow from those rules and facts. It is a means of adding logical reasoning to software.
 
-In its current form, goference is not intended to be compiled into a standalone program or to provide a full programming environment like CLIPS OR OPS5. However, it could be embedded within a larger Go application by a Go developer who has no qualms about defining rules using Go.
+In its current form, goference is not intended to be compiled into a standalone program or to provide a full programming environment like CLIPS or OPS5. However, it could be embedded within a larger Go application by a Go developer who has no qualms about defining rules using Go.
 
 ## Motivation
 
